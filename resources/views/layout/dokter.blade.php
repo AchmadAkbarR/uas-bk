@@ -146,7 +146,7 @@
   <!-- /.content-wrapper -->
 
   <footer class="main-footer">
-    <strong>Copyright &copy; 2025 <a href="https://github.com/Hessaajipradana/tugas-wd05-14393">Poliklinik</a>.</strong>
+    <strong>Copyright &copy; 2025 <a href="https://github.com/AchmadAkbarR/uas-bk">MedinovaCare</a>.</strong>
     All rights reserved.
     <div class="float-right d-none d-sm-inline-block">
       <b>Version</b> 1.0.0

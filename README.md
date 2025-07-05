@@ -10,8 +10,8 @@
   ![AdminLTE](https://img.shields.io/badge/AdminLTE-3.2-00A4EF?style=for-the-badge&logo=adminlte&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-8.0+-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-  **🎓 Karya**: Fatwa Reksa Aji Pradana  
-  **📋 NIM**: A11.2022.14393  
+  **🎓 Karya**: Achmad akbar 
+  **📋 NIM**: A11.2022.13959  
   **📚 Mata Kuliah**: Bengkel Koding  
   **⭐ Version**: 1.0.0
 
@@ -770,11 +770,11 @@ MIT License - Feel free to use for educational purposes! 🎓
 
 ## 👤 Author
 
-**Fatwa Reksa Aji Pradana**
-- 📋 NIM: A11.2022.14393
+**Achmad Akbar Riawan**
+- 📋 NIM: A11.2022.13959
 - 📚 Mata Kuliah: Bengkel Koding
-- 🌐 GitHub: [@Hessaajipradana](https://github.com/Hessaajipradana)
-- 📧 Email: [Contact](mailto:your-email@domain.com)
+- 🌐 GitHub: (https://github.com/AchmadAkbarR/uas-bk.git)
+- 📧 Email: ()
 
 ---
 
